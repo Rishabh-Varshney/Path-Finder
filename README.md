@@ -31,5 +31,4 @@ cd Path-Finder
 yarn install
 yarn start
 ```
-
 <br>
