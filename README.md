@@ -18,7 +18,6 @@ Live-Version:https://path-finder-1124.netlify.app/
 https://github.com/Rishabh-Varshney/Path-Finder.git
 -React
 -SaSS
--Flow
 ```
 
 <br>
